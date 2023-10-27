@@ -17,9 +17,9 @@
   "keywords": [],
   "license": "ISC",
   "dependencies": {
-    "chromadb": "^1.4.1",
+    "chromadb": "^1.4.2",
     "dotenv": "^16.0.3",
-    "openai": "^3.2.1",
+    "openai": "^4.0.0",
     "prompt-sync": "^4.2.0"
   }
 }
