@@ -1,4 +1,4 @@
-FROM python:3.11-slim
+FROM python:3.14.0a3-slim
 
 ENV PIP_NO_CACHE_DIR=true
 WORKDIR /tmp
